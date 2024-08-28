@@ -1,4 +1,5 @@
 # lab454
 透過轉移學習與集成學習技術實現車載網路的入侵檢測強化  
 三個均在colab上做執行  
+reansfer learning的部分我CNN與後面各模型所使用的dataset是不同的，需先跑完CNN再換dataset後執行後續的model  
 ensemble_model那邊前面只須執行到載入dataset的部分即可，load model的部分到後面都可不用執行，那是我用來測試東西用的，可以直接執行倒數第二個跟最下面的
